@@ -2,5 +2,4 @@
 
 ## [About / Join](https://discuss.flarum.org/d/25506-flaring-a-modern-webring-for-flarum-webmasters)
 
-### OR
 
