@@ -88,7 +88,7 @@ if(window.location.href.indexOf("flaring-surfer") > -1) {
 
 #### Welcome back to the 90s. 
 
-P.S. A working example is at the bottom of https://www.wilcosky.com.
+P.S. A working example is at the bottom of [https://www.wilcosky.com](https://www.wilcosky.com).
 
 
 ### [Join the webring!](https://forms.gle/EtYEFkLideHVEgs38)
