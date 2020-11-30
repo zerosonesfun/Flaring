@@ -1,8 +1,5 @@
 ![](https://i.ibb.co/WsYCvKG/428-E52-CF-7130-422-A-93-E6-334-B8-C21-A5-F2.png)
 
-## Flaring - A webring
-[img]https://i.ibb.co/WsYCvKG/428-E52-CF-7130-422-A-93-E6-334-B8-C21-A5-F2.png[/img]
-
 ### Introduction
 [Webrings](https://en.wikipedia.org/wiki/Webring) were cool in the 90s and it’s things like webrings that helped small websites out a lot. Now, everyone relies too much on promoting their projects via social media. But, social media is over crowded. A webring connects like websites together, promoting each other, in a simple way.
 
