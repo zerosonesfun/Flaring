@@ -57,5 +57,9 @@ this.shadowRoot.appendChild(template.content.cloneNode(true));
     return Math.floor(Math.random() * (max - min + 1)) + min;
   }
 }
-window.customElements.define("webring-flaring", WebRing);   
+window.customElements.define("webring-flaring", WebRing);
+
+if(window.location.href.indexOf("flaring-surfer") > -1) {
+       alert("Hello and welcome! You found this site thanks to the webring, Flaring. Look for a similar Flaring message on this site to easily navigate to the next member site. Many times you’ll find the webring navigation at the bottom of the website or perhaps on a dedicated page.");
+} 
 </script>
