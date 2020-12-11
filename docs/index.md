@@ -16,7 +16,7 @@
 ### Widget code:
 ##### All you need to change is the url in line 1 which says "www.CHANGE_THIS_TO_YOUR_SITE.com," but please leave the ending slash and UTM code.
 ~~~
-<webring-flaring site="https://www.CHANGE_THIS_TO_YOUR_SITE.com/?utm=flaring-surfer">
+<webring-flaring site="https://www.CHANGE_THIS_TO_YOUR_SITE.com/?utm_source=flaring-surfer">
 </webring-flaring>
 <script>
 const DATA_FOR_WEBRING = `https://raw.githubusercontent.com/zerosonesfun/Flaring/main/webring.json`;
