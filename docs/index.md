@@ -1,3 +1,6 @@
+## ARCHIVED
+This project is no longer active. Feel free to browse the code though. 🤓
+
 ![](https://i.ibb.co/WsYCvKG/428-E52-CF-7130-422-A-93-E6-334-B8-C21-A5-F2.png)
 
 ### Introduction
@@ -6,12 +9,7 @@
 **Flaring** is a webring for webmasters who use the forum software Flarum. You just submit a few details about your site, copy and paste some code into your Flarum's custom footer, and now you are connected with other passionate Flarum communities. Here are the full rules and steps:
 
 ### How do I join?
-1. Your website must have Flarum installed.
-2. Your website's primary language must be English. Sorry in advance to the many non-English sites, but in order to approve your site all moderators have to be able to easily read it. Different webrings for different countries could be set up in the future.
-3. Your website cannot be about anything illegal or contain porn.
-4. Your website must be "independent" and/or relatively small. The moderators of Flaring determine if your site meets this criteria.
-5. Submit your site's information. You may do this by adding to the [webring.json](https://github.com/zerosonesfun/Flaring/blob/main/webring.json) file and submitting a pull request if you are familiar with GitHub. Or, [simply fill out this form](https://forms.gle/EtYEFkLideHVEgs38).
-6. In order to become a fully approved Flaring webring member, you will need to also copy and paste the following widget code into your Flarum’s custom footer (which can be done from the Appearance settings). Or, copy and paste it into a dedicated page as long as the link to that page is part of a main menu and the link text is "**Explore**." Why **Explore**? Because this gives the average web surfer something common to look for as they go from site to site. Not everyone can place the webring navigation in their footer, but if everyone at least uses "Explore," then it makes it a little easier for the surfer to spot it.
+This project is no longer active and so you cannot join.
 
 ### Widget code:
 ##### All you need to change is the url in line 1 which says "www.CHANGE_THIS_TO_YOUR_SITE.com," but please leave the ending slash and UTM code.
@@ -86,9 +84,4 @@ if(window.location.href.indexOf("flaring-surfer") > -1) {
 </script>
 ~~~
 
-#### Welcome back to the 90s. 
-
-P.S. A working example is at the bottom of [https://www.wilcosky.com](https://www.wilcosky.com).
-
-
-### [Join the webring!](https://forms.gle/EtYEFkLideHVEgs38)
+#### Welcome back to the 90s.
